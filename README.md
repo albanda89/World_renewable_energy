@@ -1,3 +1,7 @@
+
+![cc200hero](https://github.com/albanda89/World_renewable_energy/assets/121318060/21d5f501-4f28-4fbe-a4b2-3fdeae7a352f)
+
+
 # World_renewable_energy
 Python learning projects individual design- Career Foundry 
 
